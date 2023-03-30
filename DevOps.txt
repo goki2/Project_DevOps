@@ -1,11 +1,13 @@
 DevOps Project:
 ---------------
 
-Plan
+1. Plan
 
-Code
+2. Code
 
-Build
+3. Build
+
+
 
 
 
