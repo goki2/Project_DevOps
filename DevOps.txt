@@ -1,12 +1,18 @@
 DevOps Project:
 ---------------
-
+CI:
+-----
 1. Plan
 
 2. Code
 
 3. Build
 
+CD:
+----
+4. Test
+
+5. Deploy
 
 
 
