@@ -12,7 +12,12 @@ CD:
 ----
 4. Test
 
+6. Develop
+
 5. Deploy
+
+
+
 
 
 
