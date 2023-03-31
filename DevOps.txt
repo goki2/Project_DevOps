@@ -8,9 +8,14 @@ CI:
 
 3. Build
 
-4. Develop
+CD:
+----
+4. Test
+
+6. Develop
 
 5. Deploy
+
 
 
 
